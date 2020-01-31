@@ -1,2 +1,5 @@
+require_pry
+binding.pry
 lunch_menu = ["pizza", "sandwich", "sushi", "soup", "salad"]
 lunch_menu << "!"
+end
